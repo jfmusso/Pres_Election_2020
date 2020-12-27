@@ -6,13 +6,14 @@ of U.S. President and U.S. Representative for the 6th, 10th, and 14th congressio
 
 -- Click on the green button labeled "Code"
 
--- Click on "Download ZIP"
+-- Click on "Download ZIP". (NOTE: the zip file is approximately 21 MB in size)
 
 -- Select the folder on your device where the ZIP file will be stored
 
 -- Right click on the ZIP file and select "Extract All"
 
--- Click on the button labeled "Extract"
+-- Click on the button labeled "Extract" (NOTE: the six extracted map files 
+total approximately 60 MB in size)
 
 -- Double click on the folder entitled "Pres_Election_2020-public_download"
 
