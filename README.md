@@ -1,4 +1,4 @@
-*Analysis of 2020 general election results in Lake County, IL*
+**Analysis of 2020 general election results in Lake County, IL**
 
 To download six interactive maps showing 2020 Lake County general election results for the offices of U.S. President and 
 U.S. Representative for the 6th, 10th, and 14th congressional districts:
