@@ -9,7 +9,7 @@ U.S. Representative for the 6th, 10th, and 14th congressional districts:
 
 -- Right click on the ZIP file and select "Extract All"
 
--- Click on the button labeled "Extract". The six extracted map files are approximately a combined 60 MB in size)
+-- Click on the button labeled "Extract". The six extracted map files are approximately a combined 60 MB in size.
 
 -- The six interactive maps will be in a folder entitled "Pres_Election_2020-public_download", which may open automatically. If not, open it.
 
