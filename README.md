@@ -3,6 +3,8 @@
 To download six interactive maps showing 2020 Lake County general election results for the offices of U.S. President and 
 U.S. Representative for the 6th, 10th, and 14th congressional districts:
 
+-- Click on the file named Six_interactive_maps.zip.
+
 -- Click on the "Download" button to save the file Six_interactive_maps.zip to your device. The file is approximately 20 MB in size.
 
 -- Select the folder on your device where the ZIP file will be stored. Click "Save".
